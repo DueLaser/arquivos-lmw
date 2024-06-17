@@ -1,1 +1,129 @@
-{"Nome":"Idg6-5","Codigo":null,"Quantidade":{"Linhas":20,"Colunas":2,"Total":40},"PosicaoPrimeiraEtiqueta":{"X":{"Mm":3.0,"Px":11.338583},"Y":{"Mm":14.97,"Px":56.5795326}},"Distancia":{"Linhas":{"Mm":0.6,"Px":2.26771665},"Colunas":{"Mm":18.95,"Px":71.6220551}},"Tamanho":{"Altura":{"Mm":128.9,"Px":487.1811},"Largura":{"Mm":48.75,"Px":184.251984}},"TamanhoEtiqueta":{"Altura":{"Mm":4.94,"Px":18.6708679},"Largura":{"Mm":5.7,"Px":21.5433083}},"OffsetAlternadas":{"X":{"Mm":0.0,"Px":0.0},"Y":{"Mm":0.0,"Px":0.0}},"ListaGabaritos":[{"Nome":"Gabarito Idg6-5 1x4","Tamanho":{"Altura":{"Mm":200.0,"Px":755.9056},"Largura":{"Mm":200.0,"Px":755.9056}},"Quantidade":{"Linhas":1,"Colunas":4,"Total":4},"Distancia":{"Linhas":{"Mm":0.0,"Px":0.0},"Colunas":{"Mm":1.2,"Px":4.53543329}},"OffsetPrimeiraCartela":{"X":{"Mm":-69.6,"Px":-263.0551},"Y":{"Mm":-8.2,"Px":-30.9921265}}}],"OffsetInfosAdicionais":{"X":{"Mm":1.0,"Px":3.77952766},"Y":{"Mm":6.0,"Px":22.677166}},"DistanciaInfosAdicionais":{"Linhas":{"Mm":2.5,"Px":9.448819},"Colunas":{"Mm":0.0,"Px":0.0}},"TamanhoFonteInfosAdicionais":{"Altura":{"Mm":2.64583325,"Px":10.0},"Largura":{"Mm":0.0,"Px":0.0}}}
+{
+  "Nome": "Idg6-5",
+  "Codigo": null,
+  "Quantidade": {
+    "Linhas": 20,
+    "Colunas": 2,
+    "Total": 40
+  },
+  "PosicaoPrimeiraEtiqueta": {
+    "X": {
+      "Mm": 3.6,
+      "Px": 13.6062994
+    },
+    "Y": {
+      "Mm": 13.82,
+      "Px": 52.2330742
+    }
+  },
+  "Distancia": {
+    "Linhas": {
+      "Mm": 0.42,
+      "Px": 1.58740163
+    },
+    "Colunas": {
+      "Mm": 19.0,
+      "Px": 71.81103
+    }
+  },
+  "Tamanho": {
+    "Altura": {
+      "Mm": 128.9,
+      "Px": 487.1811
+    },
+    "Largura": {
+      "Mm": 48.75,
+      "Px": 184.251984
+    }
+  },
+  "TamanhoEtiqueta": {
+    "Altura": {
+      "Mm": 4.94,
+      "Px": 18.6708679
+    },
+    "Largura": {
+      "Mm": 5.7,
+      "Px": 21.5433083
+    }
+  },
+  "OffsetAlternadas": {
+    "X": {
+      "Mm": 0.0,
+      "Px": 0.0
+    },
+    "Y": {
+      "Mm": 0.0,
+      "Px": 0.0
+    }
+  },
+  "ListaGabaritos": [
+    {
+      "Nome": "Gabarito Idg6-5 1x4",
+      "Tamanho": {
+        "Altura": {
+          "Mm": 200.0,
+          "Px": 755.9056
+        },
+        "Largura": {
+          "Mm": 200.0,
+          "Px": 755.9056
+        }
+      },
+      "Quantidade": {
+        "Linhas": 1,
+        "Colunas": 4,
+        "Total": 4
+      },
+      "Distancia": {
+        "Linhas": {
+          "Mm": 0.0,
+          "Px": 0.0
+        },
+        "Colunas": {
+          "Mm": 0.25,
+          "Px": 0.9448819
+        }
+      },
+      "OffsetPrimeiraCartela": {
+        "X": {
+          "Mm": -68.0,
+          "Px": -257.007874
+        },
+        "Y": {
+          "Mm": -5.6,
+          "Px": -21.1653557
+        }
+      }
+    }
+  ],
+  "OffsetInfosAdicionais": {
+    "X": {
+      "Mm": 1.0,
+      "Px": 3.77952766
+    },
+    "Y": {
+      "Mm": 2.0,
+      "Px": 7.55905533
+    }
+  },
+  "DistanciaInfosAdicionais": {
+    "Linhas": {
+      "Mm": 2.5,
+      "Px": 9.448819
+    },
+    "Colunas": {
+      "Mm": 0.0,
+      "Px": 0.0
+    }
+  },
+  "TamanhoFonteInfosAdicionais": {
+    "Altura": {
+      "Mm": 2.64583325,
+      "Px": 10.0
+    },
+    "Largura": {
+      "Mm": 0.0,
+      "Px": 0.0
+    }
+  }
+}
