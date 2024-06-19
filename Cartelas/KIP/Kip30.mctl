@@ -1,6 +1,6 @@
 {
   "Nome": "Kip30",
-  "Codigo": null,
+  "Codigo": "",
   "Quantidade": {
     "Linhas": 10,
     "Colunas": 2,
@@ -18,28 +18,28 @@
   },
   "Distancia": {
     "Linhas": {
-      "Mm": 7.0,
-      "Px": 26.4566936
+      "Mm": 7.1,
+      "Px": 26.8346462
     },
     "Colunas": {
-      "Mm": 8.0,
-      "Px": 30.2362213
+      "Mm": 7.9,
+      "Px": 29.8582687
     }
   },
   "Tamanho": {
     "Altura": {
-      "Mm": 126.9,
-      "Px": 479.62207
+      "Mm": 126.8,
+      "Px": 479.244141
     },
     "Largura": {
-      "Mm": 69.5,
-      "Px": 262.6772
+      "Mm": 70.0,
+      "Px": 264.566956
     }
   },
   "TamanhoEtiqueta": {
     "Altura": {
-      "Mm": 3.93,
-      "Px": 14.8535442
+      "Mm": 4.0,
+      "Px": 15.1181107
     },
     "Largura": {
       "Mm": 30.0,
@@ -52,8 +52,8 @@
       "Px": 0.0
     },
     "Y": {
-      "Mm": -5.1,
-      "Px": -19.27559
+      "Mm": -5.9,
+      "Px": -22.2992134
     }
   },
   "ListaGabaritos": [
@@ -80,30 +80,30 @@
           "Px": 0.0
         },
         "Colunas": {
-          "Mm": -19.5,
-          "Px": -73.70079
+          "Mm": -19.33,
+          "Px": -73.05827
         }
       },
       "OffsetPrimeiraCartela": {
         "X": {
-          "Mm": -73.0,
-          "Px": -275.905518
+          "Mm": -77.0,
+          "Px": -291.023651
         },
         "Y": {
-          "Mm": -3.05,
-          "Px": -11.5275593
+          "Mm": 0.75,
+          "Px": 2.83464575
         }
       }
     }
   ],
   "OffsetInfosAdicionais": {
     "X": {
-      "Mm": 9.0,
-      "Px": 34.01575
+      "Mm": 2.0,
+      "Px": 7.55905533
     },
     "Y": {
-      "Mm": 4.0,
-      "Px": 15.1181107
+      "Mm": 0.0,
+      "Px": 0.0
     }
   },
   "DistanciaInfosAdicionais": {
@@ -118,8 +118,8 @@
   },
   "TamanhoFonteInfosAdicionais": {
     "Altura": {
-      "Mm": 1.85208321,
-      "Px": 7.0
+      "Mm": 2.11666656,
+      "Px": 8.0
     },
     "Largura": {
       "Mm": 0.0,
