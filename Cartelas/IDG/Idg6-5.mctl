@@ -1,6 +1,6 @@
 {
   "Nome": "Idg6-5",
-  "Codigo": null,
+  "Codigo": "",
   "Quantidade": {
     "Linhas": 20,
     "Colunas": 2,
@@ -8,18 +8,18 @@
   },
   "PosicaoPrimeiraEtiqueta": {
     "X": {
-      "Mm": 3.6,
-      "Px": 13.6062994
+      "Mm": 5.5,
+      "Px": 20.7874031
     },
     "Y": {
-      "Mm": 13.82,
-      "Px": 52.2330742
+      "Mm": 14.0,
+      "Px": 52.9133873
     }
   },
   "Distancia": {
     "Linhas": {
-      "Mm": 0.42,
-      "Px": 1.58740163
+      "Mm": 0.55,
+      "Px": 2.07874036
     },
     "Colunas": {
       "Mm": 19.0,
@@ -28,22 +28,22 @@
   },
   "Tamanho": {
     "Altura": {
-      "Mm": 128.9,
-      "Px": 487.1811
+      "Mm": 129.1,
+      "Px": 487.937042
     },
     "Largura": {
-      "Mm": 48.75,
-      "Px": 184.251984
+      "Mm": 48.85,
+      "Px": 184.629929
     }
   },
   "TamanhoEtiqueta": {
     "Altura": {
-      "Mm": 4.94,
-      "Px": 18.6708679
+      "Mm": 5.0,
+      "Px": 18.8976383
     },
     "Largura": {
-      "Mm": 5.7,
-      "Px": 21.5433083
+      "Mm": 6.0,
+      "Px": 22.677166
     }
   },
   "OffsetAlternadas": {
@@ -80,30 +80,30 @@
           "Px": 0.0
         },
         "Colunas": {
-          "Mm": 0.25,
-          "Px": 0.9448819
+          "Mm": 0.94,
+          "Px": 3.552756
         }
       },
       "OffsetPrimeiraCartela": {
         "X": {
-          "Mm": -68.0,
-          "Px": -257.007874
+          "Mm": -73.0,
+          "Px": -275.905518
         },
         "Y": {
-          "Mm": -5.6,
-          "Px": -21.1653557
+          "Mm": -1.5,
+          "Px": -5.6692915
         }
       }
     }
   ],
   "OffsetInfosAdicionais": {
     "X": {
-      "Mm": 1.0,
-      "Px": 3.77952766
+      "Mm": 2.5,
+      "Px": 9.448819
     },
     "Y": {
-      "Mm": 2.0,
-      "Px": 7.55905533
+      "Mm": 4.0,
+      "Px": 15.1181107
     }
   },
   "DistanciaInfosAdicionais": {
@@ -118,8 +118,8 @@
   },
   "TamanhoFonteInfosAdicionais": {
     "Altura": {
-      "Mm": 2.64583325,
-      "Px": 10.0
+      "Mm": 2.11666656,
+      "Px": 8.0
     },
     "Largura": {
       "Mm": 0.0,
