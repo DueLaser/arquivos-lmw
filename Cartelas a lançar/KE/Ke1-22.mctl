@@ -1,1 +1,129 @@
-{"Nome":"Ke1-22","Codigo":null,"Quantidade":{"Linhas":10,"Colunas":4,"Total":40},"PosicaoPrimeiraEtiqueta":{"X":{"Mm":5.75,"Px":21.7322845},"Y":{"Mm":7.5,"Px":28.3464584}},"Distancia":{"Linhas":{"Mm":1.3,"Px":4.913386},"Colunas":{"Mm":9.34,"Px":35.30079}},"Tamanho":{"Altura":{"Mm":76.33,"Px":288.491364},"Largura":{"Mm":132.2,"Px":499.653564}},"TamanhoEtiqueta":{"Altura":{"Mm":4.73,"Px":17.8771667},"Largura":{"Mm":22.0,"Px":83.14961}},"OffsetAlternadas":{"X":{"Mm":0.0,"Px":0.0},"Y":{"Mm":0.1,"Px":0.377952784}},"ListaGabaritos":[{"Nome":"Gabarito Ke22 2x1","Tamanho":{"Altura":{"Mm":200.0,"Px":755.9056},"Largura":{"Mm":200.0,"Px":755.9056}},"Quantidade":{"Linhas":2,"Colunas":1,"Total":2},"Distancia":{"Linhas":{"Mm":9.58,"Px":36.2078743},"Colunas":{"Mm":0.0,"Px":0.0}},"OffsetPrimeiraCartela":{"X":{"Mm":6.0,"Px":22.677166},"Y":{"Mm":-45.8,"Px":-173.102371}}}],"OffsetInfosAdicionais":{"X":{"Mm":8.0,"Px":30.2362213},"Y":{"Mm":2.0,"Px":7.55905533}},"DistanciaInfosAdicionais":{"Linhas":{"Mm":0.0,"Px":0.0},"Colunas":{"Mm":0.0,"Px":0.0}},"TamanhoFonteInfosAdicionais":{"Altura":{"Mm":2.64583325,"Px":10.0},"Largura":{"Mm":0.0,"Px":0.0}}}
+{
+  "Nome": "Ke1-22",
+  "Codigo": "",
+  "Quantidade": {
+    "Linhas": 10,
+    "Colunas": 4,
+    "Total": 40
+  },
+  "PosicaoPrimeiraEtiqueta": {
+    "X": {
+      "Mm": 7.6,
+      "Px": 28.724411
+    },
+    "Y": {
+      "Mm": 8.88,
+      "Px": 33.5622063
+    }
+  },
+  "Distancia": {
+    "Linhas": {
+      "Mm": 1.4,
+      "Px": 5.291339
+    },
+    "Colunas": {
+      "Mm": 9.5,
+      "Px": 35.9055138
+    }
+  },
+  "Tamanho": {
+    "Altura": {
+      "Mm": 76.33,
+      "Px": 288.491364
+    },
+    "Largura": {
+      "Mm": 132.2,
+      "Px": 499.653564
+    }
+  },
+  "TamanhoEtiqueta": {
+    "Altura": {
+      "Mm": 4.62,
+      "Px": 17.4614182
+    },
+    "Largura": {
+      "Mm": 22.0,
+      "Px": 83.14961
+    }
+  },
+  "OffsetAlternadas": {
+    "X": {
+      "Mm": 0.0,
+      "Px": 0.0
+    },
+    "Y": {
+      "Mm": 0.1,
+      "Px": 0.377952784
+    }
+  },
+  "ListaGabaritos": [
+    {
+      "Nome": "Gabarito Ke22 2x1",
+      "Tamanho": {
+        "Altura": {
+          "Mm": 200.0,
+          "Px": 755.9056
+        },
+        "Largura": {
+          "Mm": 200.0,
+          "Px": 755.9056
+        }
+      },
+      "Quantidade": {
+        "Linhas": 2,
+        "Colunas": 1,
+        "Total": 2
+      },
+      "Distancia": {
+        "Linhas": {
+          "Mm": 9.58,
+          "Px": 36.2078743
+        },
+        "Colunas": {
+          "Mm": 0.0,
+          "Px": 0.0
+        }
+      },
+      "OffsetPrimeiraCartela": {
+        "X": {
+          "Mm": 5.0,
+          "Px": 18.8976383
+        },
+        "Y": {
+          "Mm": -45.8,
+          "Px": -173.102371
+        }
+      }
+    }
+  ],
+  "OffsetInfosAdicionais": {
+    "X": {
+      "Mm": 8.0,
+      "Px": 30.2362213
+    },
+    "Y": {
+      "Mm": 4.0,
+      "Px": 15.1181107
+    }
+  },
+  "DistanciaInfosAdicionais": {
+    "Linhas": {
+      "Mm": 0.0,
+      "Px": 0.0
+    },
+    "Colunas": {
+      "Mm": 0.0,
+      "Px": 0.0
+    }
+  },
+  "TamanhoFonteInfosAdicionais": {
+    "Altura": {
+      "Mm": 2.64583325,
+      "Px": 10.0
+    },
+    "Largura": {
+      "Mm": 0.0,
+      "Px": 0.0
+    }
+  }
+}
