@@ -1,49 +1,49 @@
 {
-  "Nome": "Ke1-22",
+  "Nome": "Cracha",
   "Codigo": "",
   "Quantidade": {
-    "Linhas": 10,
+    "Linhas": 4,
     "Colunas": 4,
-    "Total": 40
+    "Total": 16
   },
   "PosicaoPrimeiraEtiqueta": {
     "X": {
-      "Mm": 7.6,
-      "Px": 28.724411
+      "Mm": 2.0,
+      "Px": 7.55905533
     },
     "Y": {
-      "Mm": 8.88,
-      "Px": 33.5622063
+      "Mm": 11.5,
+      "Px": 43.46457
     }
   },
   "Distancia": {
     "Linhas": {
-      "Mm": 1.4,
-      "Px": 5.291339
+      "Mm": 1.23,
+      "Px": 4.64881945
     },
     "Colunas": {
-      "Mm": 9.5,
-      "Px": 35.9055138
+      "Mm": 8.9,
+      "Px": 33.6377945
     }
   },
   "Tamanho": {
     "Altura": {
-      "Mm": 76.33,
-      "Px": 288.491364
+      "Mm": 130.0,
+      "Px": 491.338623
     },
     "Largura": {
-      "Mm": 132.2,
-      "Px": 499.653564
+      "Mm": 85.0,
+      "Px": 321.259857
     }
   },
   "TamanhoEtiqueta": {
     "Altura": {
-      "Mm": 4.62,
-      "Px": 17.4614182
+      "Mm": 27.0,
+      "Px": 102.047249
     },
     "Largura": {
-      "Mm": 22.0,
-      "Px": 83.14961
+      "Mm": 12.0,
+      "Px": 45.354332
     }
   },
   "OffsetAlternadas": {
@@ -52,14 +52,14 @@
       "Px": 0.0
     },
     "Y": {
-      "Mm": 0.1,
-      "Px": 0.377952784
+      "Mm": 0.0,
+      "Px": 0.0
     }
   },
   "OffsetHeader": {
     "X": {
-      "Mm": -4.0,
-      "Px": -15.1181107
+      "Mm": 15.5,
+      "Px": 58.58268
     },
     "Y": {
       "Mm": 0.0,
@@ -68,7 +68,7 @@
   },
   "ListaGabaritos": [
     {
-      "Nome": "Gabarito Ke22 2x1",
+      "Nome": "Gabarito Cracha 1x2",
       "Tamanho": {
         "Altura": {
           "Mm": 200.0,
@@ -80,40 +80,40 @@
         }
       },
       "Quantidade": {
-        "Linhas": 2,
-        "Colunas": 1,
+        "Linhas": 1,
+        "Colunas": 2,
         "Total": 2
       },
       "Distancia": {
         "Linhas": {
-          "Mm": 9.58,
-          "Px": 36.2078743
-        },
-        "Colunas": {
           "Mm": 0.0,
           "Px": 0.0
+        },
+        "Colunas": {
+          "Mm": 18.5,
+          "Px": 69.9212646
         }
       },
       "OffsetPrimeiraCartela": {
         "X": {
-          "Mm": 5.0,
-          "Px": 18.8976383
+          "Mm": -52.0,
+          "Px": -196.535446
         },
         "Y": {
-          "Mm": -45.8,
-          "Px": -173.102371
+          "Mm": 2.0,
+          "Px": 7.55905533
         }
       }
     }
   ],
   "OffsetInfosAdicionais": {
     "X": {
-      "Mm": 8.0,
-      "Px": 30.2362213
+      "Mm": 2.0,
+      "Px": 7.55905533
     },
     "Y": {
-      "Mm": 4.0,
-      "Px": 15.1181107
+      "Mm": 6.0,
+      "Px": 22.677166
     }
   },
   "DistanciaInfosAdicionais": {

@@ -56,6 +56,16 @@
       "Px": 0.0
     }
   },
+  "OffsetHeader": {
+    "X": {
+      "Mm": -4.0,
+      "Px": -15.1181107
+    },
+    "Y": {
+      "Mm": 0.0,
+      "Px": 0.0
+    }
+  },
   "ListaGabaritos": [
     {
       "Nome": "Gabarito Ke18 2x1",
@@ -125,5 +135,16 @@
       "Mm": 0.0,
       "Px": 0.0
     }
+  },
+  "Material": {
+    "Id": "5",
+    "Name": "Plástico",
+    "LaserPower": 70.0,
+    "CutSpeed": 350.0,
+    "LineDistance": 80,
+    "LaserPowerOutline": 70.0,
+    "CutSpeedOutline": 170.0,
+    "LineDistanceOutline": 0,
+    "IsFixed": true
   }
 }
