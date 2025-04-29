@@ -18,12 +18,12 @@
   },
   "Distancia": {
     "Linhas": {
-      "Mm": 2.3,
-      "Px": 8.692914
+      "Mm": 2.22,
+      "Px": 8.390552
     },
     "Colunas": {
-      "Mm": 13.5,
-      "Px": 51.0236244
+      "Mm": 13.15,
+      "Px": 49.70079
     }
   },
   "Tamanho": {
@@ -86,8 +86,8 @@
       },
       "Distancia": {
         "Linhas": {
-          "Mm": 9.3,
-          "Px": 35.14961
+          "Mm": 8.3,
+          "Px": 31.37008
         },
         "Colunas": {
           "Mm": 0.0,
@@ -96,24 +96,24 @@
       },
       "OffsetPrimeiraCartela": {
         "X": {
-          "Mm": 5.0,
-          "Px": 18.8976383
+          "Mm": 3.7,
+          "Px": 13.9842529
         },
         "Y": {
-          "Mm": -45.8,
-          "Px": -173.102371
+          "Mm": -48.8,
+          "Px": -184.440948
         }
       }
     }
   ],
   "OffsetInfosAdicionais": {
     "X": {
-      "Mm": 5.0,
-      "Px": 18.8976383
+      "Mm": 7.0,
+      "Px": 26.4566936
     },
     "Y": {
-      "Mm": 5.0,
-      "Px": 18.8976383
+      "Mm": 3.5,
+      "Px": 13.2283468
     }
   },
   "DistanciaInfosAdicionais": {
@@ -128,8 +128,8 @@
   },
   "TamanhoFonteInfosAdicionais": {
     "Altura": {
-      "Mm": 0.0,
-      "Px": 0.0
+      "Mm": 2.64583325,
+      "Px": 10.0
     },
     "Largura": {
       "Mm": 0.0,
@@ -141,10 +141,10 @@
     "Name": "Plástico",
     "LaserPower": 70.0,
     "CutSpeed": 350.0,
-    "LineDistance": 80,
+    "LineDistance": 0.08,
     "LaserPowerOutline": 70.0,
     "CutSpeedOutline": 170.0,
-    "LineDistanceOutline": 0,
+    "LineDistanceOutline": 0.0,
     "IsFixed": true
   }
 }

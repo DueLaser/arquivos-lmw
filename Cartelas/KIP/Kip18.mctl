@@ -12,14 +12,14 @@
       "Px": 0.0
     },
     "Y": {
-      "Mm": 16.0,
-      "Px": 60.4724426
+      "Mm": 16.5,
+      "Px": 62.36221
     }
   },
   "Distancia": {
     "Linhas": {
-      "Mm": 6.96,
-      "Px": 26.3055134
+      "Mm": 7.0,
+      "Px": 26.4566936
     },
     "Colunas": {
       "Mm": 8.0,
@@ -28,22 +28,22 @@
   },
   "Tamanho": {
     "Altura": {
-      "Mm": 126.5,
-      "Px": 478.11026
+      "Mm": 127.5,
+      "Px": 481.8898
     },
     "Largura": {
-      "Mm": 45.6,
-      "Px": 172.346466
+      "Mm": 45.5,
+      "Px": 171.9685
     }
   },
   "TamanhoEtiqueta": {
     "Altura": {
-      "Mm": 4.06,
-      "Px": 15.344882
+      "Mm": 4.0,
+      "Px": 15.1181107
     },
     "Largura": {
-      "Mm": 18.56,
-      "Px": 70.14803
+      "Mm": 18.5,
+      "Px": 69.9212646
     }
   },
   "OffsetAlternadas": {
@@ -52,8 +52,8 @@
       "Px": 0.0
     },
     "Y": {
-      "Mm": -5.24,
-      "Px": -19.8047237
+      "Mm": -5.45,
+      "Px": -20.5984249
     }
   },
   "OffsetHeader": {
@@ -90,14 +90,52 @@
           "Px": 0.0
         },
         "Colunas": {
-          "Mm": 4.73,
-          "Px": 17.8771667
+          "Mm": 3.0,
+          "Px": 11.338583
         }
       },
       "OffsetPrimeiraCartela": {
         "X": {
           "Mm": -76.0,
           "Px": -287.2441
+        },
+        "Y": {
+          "Mm": -7.0,
+          "Px": -26.4566936
+        }
+      }
+    },
+    {
+      "Nome": "Unico",
+      "Tamanho": {
+        "Altura": {
+          "Mm": 200.0,
+          "Px": 755.9056
+        },
+        "Largura": {
+          "Mm": 200.0,
+          "Px": 755.9056
+        }
+      },
+      "Quantidade": {
+        "Linhas": 1,
+        "Colunas": 1,
+        "Total": 1
+      },
+      "Distancia": {
+        "Linhas": {
+          "Mm": 0.0,
+          "Px": 0.0
+        },
+        "Colunas": {
+          "Mm": 0.0,
+          "Px": 0.0
+        }
+      },
+      "OffsetPrimeiraCartela": {
+        "X": {
+          "Mm": 0.0,
+          "Px": 0.0
         },
         "Y": {
           "Mm": 0.0,
@@ -112,14 +150,14 @@
       "Px": 3.77952766
     },
     "Y": {
-      "Mm": 1.4,
-      "Px": 5.291339
+      "Mm": 2.4,
+      "Px": 9.070867
     }
   },
   "DistanciaInfosAdicionais": {
     "Linhas": {
-      "Mm": 3.0,
-      "Px": 11.338583
+      "Mm": 2.5,
+      "Px": 9.448819
     },
     "Colunas": {
       "Mm": 0.0,
@@ -141,10 +179,10 @@
     "Name": "Plástico",
     "LaserPower": 70.0,
     "CutSpeed": 350.0,
-    "LineDistance": 80,
+    "LineDistance": 0.08,
     "LaserPowerOutline": 70.0,
     "CutSpeedOutline": 170.0,
-    "LineDistanceOutline": 0,
+    "LineDistanceOutline": 0.0,
     "IsFixed": true
   }
 }
