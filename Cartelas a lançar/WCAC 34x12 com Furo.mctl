@@ -1,0 +1,111 @@
+{
+  "Nome": "WCAC 34x12 com Furo",
+  "Codigo": "",
+  "Quantidade": {
+    "Linhas": 8,
+    "Colunas": 3,
+    "Total": 24
+  },
+  "PosicaoPrimeiraEtiqueta": {
+    "X": {
+      "Mm": 17.0,
+      "Px": 64.25197
+    },
+    "Y": {
+      "Mm": 12.0,
+      "Px": 45.354332
+    }
+  },
+  "Distancia": {
+    "Linhas": {
+      "Mm": 2.8,
+      "Px": 10.5826778
+    },
+    "Colunas": {
+      "Mm": 13.3,
+      "Px": 50.26772
+    }
+  },
+  "Tamanho": {
+    "Altura": {
+      "Mm": 195.0,
+      "Px": 737.007935
+    },
+    "Largura": {
+      "Mm": 180.0,
+      "Px": 680.315
+    }
+  },
+  "TamanhoEtiqueta": {
+    "Altura": {
+      "Mm": 19.7,
+      "Px": 74.4567
+    },
+    "Largura": {
+      "Mm": 39.7,
+      "Px": 150.047256
+    }
+  },
+  "OffsetAlternadas": {
+    "X": {
+      "Mm": 0.0,
+      "Px": 0.0
+    },
+    "Y": {
+      "Mm": 0.0,
+      "Px": 0.0
+    }
+  },
+  "OffsetHeader": {
+    "X": {
+      "Mm": 0.0,
+      "Px": 0.0
+    },
+    "Y": {
+      "Mm": 0.0,
+      "Px": 0.0
+    }
+  },
+  "ListaGabaritos": [],
+  "OffsetInfosAdicionais": {
+    "X": {
+      "Mm": 10.0,
+      "Px": 37.7952766
+    },
+    "Y": {
+      "Mm": 5.0,
+      "Px": 18.8976383
+    }
+  },
+  "DistanciaInfosAdicionais": {
+    "Linhas": {
+      "Mm": 0.0,
+      "Px": 0.0
+    },
+    "Colunas": {
+      "Mm": 0.0,
+      "Px": 0.0
+    }
+  },
+  "TamanhoFonteInfosAdicionais": {
+    "Altura": {
+      "Mm": 2.64583325,
+      "Px": 10.0
+    },
+    "Largura": {
+      "Mm": 0.0,
+      "Px": 0.0
+    }
+  },
+  "Material": {
+    "Id": "1",
+    "Name": "Acrílico Preto",
+    "LaserPower": 70.0,
+    "CutSpeed": 350.0,
+    "LineDistance": 0.08,
+    "LaserPowerOutline": 70.0,
+    "CutSpeedOutline": 175.0,
+    "LineDistanceOutline": 0.0,
+    "IsFixed": true
+  }
+}
