@@ -18,12 +18,12 @@
   },
   "Distancia": {
     "Linhas": {
-      "Mm": 2.8,
-      "Px": 10.5826778
+      "Mm": 2.6,
+      "Px": 9.826772
     },
     "Colunas": {
-      "Mm": 13.3,
-      "Px": 50.26772
+      "Mm": 12.8,
+      "Px": 48.3779564
     }
   },
   "Tamanho": {
@@ -66,11 +66,50 @@
       "Px": 0.0
     }
   },
-  "ListaGabaritos": [],
+  "ListaGabaritos": [
+    {
+      "Nome": "Gabarito WCAC 1x1",
+      "Tamanho": {
+        "Altura": {
+          "Mm": 215.0,
+          "Px": 812.59845
+        },
+        "Largura": {
+          "Mm": 219.0,
+          "Px": 827.716553
+        }
+      },
+      "Quantidade": {
+        "Linhas": 1,
+        "Colunas": 1,
+        "Total": 1
+      },
+      "Distancia": {
+        "Linhas": {
+          "Mm": 0.0,
+          "Px": 0.0
+        },
+        "Colunas": {
+          "Mm": 0.0,
+          "Px": 0.0
+        }
+      },
+      "OffsetPrimeiraCartela": {
+        "X": {
+          "Mm": 0.0,
+          "Px": 0.0
+        },
+        "Y": {
+          "Mm": -8.0,
+          "Px": -30.2362213
+        }
+      }
+    }
+  ],
   "OffsetInfosAdicionais": {
     "X": {
-      "Mm": 10.0,
-      "Px": 37.7952766
+      "Mm": 57.0,
+      "Px": 215.433075
     },
     "Y": {
       "Mm": 5.0,
@@ -89,8 +128,8 @@
   },
   "TamanhoFonteInfosAdicionais": {
     "Altura": {
-      "Mm": 2.64583325,
-      "Px": 10.0
+      "Mm": 2.11666656,
+      "Px": 8.0
     },
     "Largura": {
       "Mm": 0.0,
