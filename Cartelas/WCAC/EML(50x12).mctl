@@ -1,35 +1,35 @@
 {
-  "Nome": "WCAC 50x20 sem Furo",
+  "Nome": "EML(50x12)",
   "Codigo": "",
   "Quantidade": {
-    "Linhas": 8,
+    "Linhas": 12,
     "Colunas": 3,
-    "Total": 24
+    "Total": 36
   },
   "PosicaoPrimeiraEtiqueta": {
     "X": {
-      "Mm": 12.0,
-      "Px": 45.354332
+      "Mm": 15.0,
+      "Px": 56.6929169
     },
     "Y": {
-      "Mm": 12.0,
-      "Px": 45.354332
+      "Mm": 33.0,
+      "Px": 124.724419
     }
   },
   "Distancia": {
     "Linhas": {
-      "Mm": 2.6,
-      "Px": 9.826772
+      "Mm": 3.0,
+      "Px": 11.338583
     },
     "Colunas": {
-      "Mm": 2.8,
-      "Px": 10.5826778
+      "Mm": 5.0,
+      "Px": 18.8976383
     }
   },
   "Tamanho": {
     "Altura": {
-      "Mm": 195.0,
-      "Px": 737.007935
+      "Mm": 220.0,
+      "Px": 831.4961
     },
     "Largura": {
       "Mm": 180.0,
@@ -38,12 +38,12 @@
   },
   "TamanhoEtiqueta": {
     "Altura": {
-      "Mm": 19.7,
-      "Px": 74.4567
+      "Mm": 12.0,
+      "Px": 45.354332
     },
     "Largura": {
-      "Mm": 49.7,
-      "Px": 187.842529
+      "Mm": 50.0,
+      "Px": 188.9764
     }
   },
   "OffsetAlternadas": {

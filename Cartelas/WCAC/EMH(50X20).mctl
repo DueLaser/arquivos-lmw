@@ -1,5 +1,5 @@
 {
-  "Nome": "WCAC 50x20 com Furo",
+  "Nome": "EMH(50X20)",
   "Codigo": "",
   "Quantidade": {
     "Linhas": 8,
@@ -8,28 +8,28 @@
   },
   "PosicaoPrimeiraEtiqueta": {
     "X": {
-      "Mm": 17.0,
-      "Px": 64.25197
+      "Mm": 20.3,
+      "Px": 76.72441
     },
     "Y": {
-      "Mm": 12.0,
-      "Px": 45.354332
+      "Mm": 33.0,
+      "Px": 124.724419
     }
   },
   "Distancia": {
     "Linhas": {
-      "Mm": 2.6,
-      "Px": 9.826772
+      "Mm": 3.0,
+      "Px": 11.338583
     },
     "Colunas": {
-      "Mm": 12.8,
-      "Px": 48.3779564
+      "Mm": 11.9,
+      "Px": 44.97638
     }
   },
   "Tamanho": {
     "Altura": {
-      "Mm": 195.0,
-      "Px": 737.007935
+      "Mm": 220.0,
+      "Px": 831.4961
     },
     "Largura": {
       "Mm": 180.0,
@@ -42,8 +42,8 @@
       "Px": 74.4567
     },
     "Largura": {
-      "Mm": 39.7,
-      "Px": 150.047256
+      "Mm": 40.0,
+      "Px": 151.1811
     }
   },
   "OffsetAlternadas": {

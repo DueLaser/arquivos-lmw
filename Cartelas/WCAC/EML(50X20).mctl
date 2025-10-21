@@ -1,0 +1,150 @@
+{
+  "Nome": "EML(50X20)",
+  "Codigo": "",
+  "Quantidade": {
+    "Linhas": 8,
+    "Colunas": 3,
+    "Total": 24
+  },
+  "PosicaoPrimeiraEtiqueta": {
+    "X": {
+      "Mm": 16.0,
+      "Px": 60.4724426
+    },
+    "Y": {
+      "Mm": 35.0,
+      "Px": 132.283478
+    }
+  },
+  "Distancia": {
+    "Linhas": {
+      "Mm": 3.0,
+      "Px": 11.338583
+    },
+    "Colunas": {
+      "Mm": 2.9,
+      "Px": 10.96063
+    }
+  },
+  "Tamanho": {
+    "Altura": {
+      "Mm": 220.0,
+      "Px": 831.4961
+    },
+    "Largura": {
+      "Mm": 180.0,
+      "Px": 680.315
+    }
+  },
+  "TamanhoEtiqueta": {
+    "Altura": {
+      "Mm": 19.7,
+      "Px": 74.4567
+    },
+    "Largura": {
+      "Mm": 49.7,
+      "Px": 187.842529
+    }
+  },
+  "OffsetAlternadas": {
+    "X": {
+      "Mm": 0.0,
+      "Px": 0.0
+    },
+    "Y": {
+      "Mm": 0.0,
+      "Px": 0.0
+    }
+  },
+  "OffsetHeader": {
+    "X": {
+      "Mm": 0.0,
+      "Px": 0.0
+    },
+    "Y": {
+      "Mm": 0.0,
+      "Px": 0.0
+    }
+  },
+  "ListaGabaritos": [
+    {
+      "Nome": "Gabarito WCAC 1x1",
+      "Tamanho": {
+        "Altura": {
+          "Mm": 215.0,
+          "Px": 812.59845
+        },
+        "Largura": {
+          "Mm": 219.0,
+          "Px": 827.716553
+        }
+      },
+      "Quantidade": {
+        "Linhas": 1,
+        "Colunas": 1,
+        "Total": 1
+      },
+      "Distancia": {
+        "Linhas": {
+          "Mm": 0.0,
+          "Px": 0.0
+        },
+        "Colunas": {
+          "Mm": 0.0,
+          "Px": 0.0
+        }
+      },
+      "OffsetPrimeiraCartela": {
+        "X": {
+          "Mm": 0.0,
+          "Px": 0.0
+        },
+        "Y": {
+          "Mm": -8.0,
+          "Px": -30.2362213
+        }
+      }
+    }
+  ],
+  "OffsetInfosAdicionais": {
+    "X": {
+      "Mm": 57.0,
+      "Px": 215.433075
+    },
+    "Y": {
+      "Mm": 5.0,
+      "Px": 18.8976383
+    }
+  },
+  "DistanciaInfosAdicionais": {
+    "Linhas": {
+      "Mm": 0.0,
+      "Px": 0.0
+    },
+    "Colunas": {
+      "Mm": 0.0,
+      "Px": 0.0
+    }
+  },
+  "TamanhoFonteInfosAdicionais": {
+    "Altura": {
+      "Mm": 2.11666656,
+      "Px": 8.0
+    },
+    "Largura": {
+      "Mm": 0.0,
+      "Px": 0.0
+    }
+  },
+  "Material": {
+    "Id": "1",
+    "Name": "Acrílico Preto",
+    "LaserPower": 70.0,
+    "CutSpeed": 350.0,
+    "LineDistance": 0.08,
+    "LaserPowerOutline": 70.0,
+    "CutSpeedOutline": 175.0,
+    "LineDistanceOutline": 0.0,
+    "IsFixed": true
+  }
+}
