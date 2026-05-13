@@ -8,8 +8,8 @@
   },
   "PosicaoPrimeiraEtiqueta": {
     "X": {
-      "Mm": 15.5,
-      "Px": 58.58268
+      "Mm": 11.0,
+      "Px": 41.5748062
     },
     "Y": {
       "Mm": 24.0,
@@ -22,8 +22,8 @@
       "Px": 7.55905533
     },
     "Colunas": {
-      "Mm": 15.0,
-      "Px": 56.6929169
+      "Mm": 4.0,
+      "Px": 15.1181107
     }
   },
   "Tamanho": {
@@ -42,8 +42,8 @@
       "Px": 60.4724426
     },
     "Largura": {
-      "Mm": 40.0,
-      "Px": 151.1811
+      "Mm": 50.0,
+      "Px": 188.9764
     }
   },
   "OffsetAlternadas": {
@@ -146,5 +146,9 @@
     "CutSpeedOutline": 175.0,
     "LineDistanceOutline": 0.0,
     "IsFixed": true
-  }
+  },
+  "FurosHabilitados": true,
+  "DistanciaFurosMm": 43.1,
+  "DistanciaFurosVerticalMm": 0.0,
+  "DiametroFurosMm": 2.5
 }

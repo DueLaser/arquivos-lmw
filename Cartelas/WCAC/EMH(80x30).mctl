@@ -1,35 +1,35 @@
 {
-  "Nome": "EMH(50X20)",
+  "Nome": "EMH(80x30)",
   "Codigo": "",
   "Quantidade": {
-    "Linhas": 8,
-    "Colunas": 3,
-    "Total": 24
+    "Linhas": 6,
+    "Colunas": 2,
+    "Total": 12
   },
   "PosicaoPrimeiraEtiqueta": {
     "X": {
-      "Mm": 14.5,
-      "Px": 54.803154
+      "Mm": 7.5,
+      "Px": 28.3464584
     },
     "Y": {
-      "Mm": 25.0,
-      "Px": 94.4882
+      "Mm": 11.0,
+      "Px": 41.5748062
     }
   },
   "Distancia": {
     "Linhas": {
-      "Mm": 3.0,
-      "Px": 11.338583
+      "Mm": 0.0,
+      "Px": 0.0
     },
     "Colunas": {
-      "Mm": 2.9,
-      "Px": 10.96063
+      "Mm": 5.0,
+      "Px": 18.8976383
     }
   },
   "Tamanho": {
     "Altura": {
-      "Mm": 220.0,
-      "Px": 831.4961
+      "Mm": 195.0,
+      "Px": 737.007935
     },
     "Largura": {
       "Mm": 180.0,
@@ -38,12 +38,12 @@
   },
   "TamanhoEtiqueta": {
     "Altura": {
-      "Mm": 19.7,
-      "Px": 74.4567
+      "Mm": 30.0,
+      "Px": 113.385834
     },
     "Largura": {
-      "Mm": 49.7,
-      "Px": 187.842529
+      "Mm": 80.0,
+      "Px": 302.3622
     }
   },
   "OffsetAlternadas": {
@@ -96,12 +96,12 @@
       },
       "OffsetPrimeiraCartela": {
         "X": {
-          "Mm": 0.0,
-          "Px": 0.0
+          "Mm": -3.0,
+          "Px": -11.338583
         },
         "Y": {
-          "Mm": -8.0,
-          "Px": -30.2362213
+          "Mm": -11.0,
+          "Px": -41.5748062
         }
       }
     }
@@ -148,7 +148,7 @@
     "IsFixed": true
   },
   "FurosHabilitados": true,
-  "DistanciaFurosMm": 43.1,
+  "DistanciaFurosMm": 75.0,
   "DistanciaFurosVerticalMm": 0.0,
   "DiametroFurosMm": 2.5
 }
