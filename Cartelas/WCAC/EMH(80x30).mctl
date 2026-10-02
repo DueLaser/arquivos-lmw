@@ -9,11 +9,11 @@
   "PosicaoPrimeiraEtiqueta": {
     "X": {
       "Mm": 7.5,
-      "Px": 28.3464584
+      "Px": 28.3464567
     },
     "Y": {
       "Mm": 11.0,
-      "Px": 41.5748062
+      "Px": 41.5748031
     }
   },
   "Distancia": {
@@ -23,27 +23,27 @@
     },
     "Colunas": {
       "Mm": 5.0,
-      "Px": 18.8976383
+      "Px": 18.8976378
     }
   },
   "Tamanho": {
     "Altura": {
       "Mm": 195.0,
-      "Px": 737.007935
+      "Px": 737.007874
     },
     "Largura": {
       "Mm": 180.0,
-      "Px": 680.315
+      "Px": 680.314961
     }
   },
   "TamanhoEtiqueta": {
     "Altura": {
       "Mm": 30.0,
-      "Px": 113.385834
+      "Px": 113.385827
     },
     "Largura": {
       "Mm": 80.0,
-      "Px": 302.3622
+      "Px": 302.362205
     }
   },
   "OffsetAlternadas": {
@@ -71,12 +71,12 @@
       "Nome": "Gabarito WCAC 1x1",
       "Tamanho": {
         "Altura": {
-          "Mm": 215.0,
-          "Px": 812.59845
+          "Mm": 195.0,
+          "Px": 737.007874
         },
         "Largura": {
-          "Mm": 219.0,
-          "Px": 827.716553
+          "Mm": 180.0,
+          "Px": 680.314961
         }
       },
       "Quantidade": {
@@ -96,12 +96,12 @@
       },
       "OffsetPrimeiraCartela": {
         "X": {
-          "Mm": -3.0,
-          "Px": -11.338583
+          "Mm": 0.0,
+          "Px": 0.0
         },
         "Y": {
-          "Mm": -11.0,
-          "Px": -41.5748062
+          "Mm": 0.0,
+          "Px": 0.0
         }
       }
     }
@@ -148,7 +148,7 @@
     "IsFixed": true
   },
   "FurosHabilitados": true,
-  "DistanciaFurosMm": 75.0,
+  "DistanciaFurosMm": 73.1,
   "DistanciaFurosVerticalMm": 0.0,
   "DiametroFurosMm": 2.5
 }
