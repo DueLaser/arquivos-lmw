@@ -1,49 +1,49 @@
 {
-  "Nome": "Cracha",
-  "Codigo": "Cracha",
+  "Nome": "EMH(150x60) Nova",
+  "Codigo": "EMH(150x60) Nova",
   "Quantidade": {
-    "Linhas": 4,
-    "Colunas": 4,
-    "Total": 16
+    "Linhas": 3,
+    "Colunas": 1,
+    "Total": 3
   },
   "PosicaoPrimeiraEtiqueta": {
     "X": {
-      "Mm": 12.3,
-      "Px": 46.488189
+      "Mm": 9.0,
+      "Px": 34.015748
     },
     "Y": {
-      "Mm": 6.6,
-      "Px": 24.9448819
+      "Mm": 11.0,
+      "Px": 41.5748062
     }
   },
   "Distancia": {
     "Linhas": {
-      "Mm": 9.6,
-      "Px": 36.2834646
+      "Mm": 0.0,
+      "Px": 0.0
     },
     "Colunas": {
-      "Mm": 1.3,
-      "Px": 4.91338583
+      "Mm": 0.0,
+      "Px": 0.0
     }
   },
   "Tamanho": {
     "Altura": {
-      "Mm": 84.8,
-      "Px": 320.503937
+      "Mm": 195.0,
+      "Px": 737.007935
     },
     "Largura": {
-      "Mm": 130.0,
-      "Px": 491.338623
+      "Mm": 168.0,
+      "Px": 634.96063
     }
   },
   "TamanhoEtiqueta": {
     "Altura": {
-      "Mm": 12.0,
-      "Px": 45.354332
+      "Mm": 60.0,
+      "Px": 226.771667
     },
     "Largura": {
-      "Mm": 27.0,
-      "Px": 102.047249
+      "Mm": 150.0,
+      "Px": 566.929138
     }
   },
   "OffsetAlternadas": {
@@ -58,36 +58,36 @@
   },
   "OffsetHeader": {
     "X": {
-      "Mm": 13.5,
-      "Px": 51.0236244
+      "Mm": 0.0,
+      "Px": 0.0
     },
     "Y": {
-      "Mm": -8.0,
-      "Px": -30.2362213
+      "Mm": 0.0,
+      "Px": 0.0
     }
   },
   "ListaGabaritos": [
     {
-      "Nome": "Gabarito Cracha 2x1",
+      "Nome": "Gabarito WCAC 1x1",
       "Tamanho": {
         "Altura": {
-          "Mm": 209.0,
-          "Px": 789.92126
+          "Mm": 195.0,
+          "Px": 737.007874
         },
         "Largura": {
-          "Mm": 220.0,
-          "Px": 831.496063
+          "Mm": 168.0,
+          "Px": 634.96063
         }
       },
       "Quantidade": {
-        "Linhas": 2,
+        "Linhas": 1,
         "Colunas": 1,
-        "Total": 2
+        "Total": 1
       },
       "Distancia": {
         "Linhas": {
-          "Mm": 5.2,
-          "Px": 19.6535433
+          "Mm": 0.0,
+          "Px": 0.0
         },
         "Colunas": {
           "Mm": 0.0,
@@ -96,24 +96,24 @@
       },
       "OffsetPrimeiraCartela": {
         "X": {
-          "Mm": -3.25,
-          "Px": -12.2834646
+          "Mm": 0.0,
+          "Px": 0.0
         },
         "Y": {
-          "Mm": -56.43,
-          "Px": -213.27874
+          "Mm": 0.0,
+          "Px": 0.0
         }
       }
     }
   ],
   "OffsetInfosAdicionais": {
     "X": {
-      "Mm": 3.0,
-      "Px": 11.338583
+      "Mm": 57.0,
+      "Px": 215.433075
     },
     "Y": {
-      "Mm": 2.0,
-      "Px": 7.55905533
+      "Mm": 5.0,
+      "Px": 18.8976383
     }
   },
   "DistanciaInfosAdicionais": {
@@ -137,14 +137,18 @@
     }
   },
   "Material": {
-    "Id": "5",
-    "Name": "Plástico",
+    "Id": "1",
+    "Name": "Acrílico Preto",
     "LaserPower": 70.0,
     "CutSpeed": 350.0,
     "LineDistance": 0.08,
     "LaserPowerOutline": 70.0,
-    "CutSpeedOutline": 170.0,
+    "CutSpeedOutline": 175.0,
     "LineDistanceOutline": 0.0,
     "IsFixed": true
-  }
+  },
+  "FurosHabilitados": true,
+  "DistanciaFurosMm": 142.0,
+  "DistanciaFurosVerticalMm": 52.0,
+  "DiametroFurosMm": 2.5
 }
