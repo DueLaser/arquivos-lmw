@@ -105,44 +105,6 @@
         }
       },
       "Desenho": "MP3002-3.svg"
-    },
-    {
-      "Nome": "Unico",
-      "Tamanho": {
-        "Altura": {
-          "Mm": 200.0,
-          "Px": 755.9056
-        },
-        "Largura": {
-          "Mm": 200.0,
-          "Px": 755.9056
-        }
-      },
-      "Quantidade": {
-        "Linhas": 1,
-        "Colunas": 1,
-        "Total": 1
-      },
-      "Distancia": {
-        "Linhas": {
-          "Mm": 0.0,
-          "Px": 0.0
-        },
-        "Colunas": {
-          "Mm": 0.0,
-          "Px": 0.0
-        }
-      },
-      "OffsetPrimeiraCartela": {
-        "X": {
-          "Mm": 0.0,
-          "Px": 0.0
-        },
-        "Y": {
-          "Mm": 0.0,
-          "Px": 0.0
-        }
-      }
     }
   ],
   "OffsetInfosAdicionais": {
